@@ -4,7 +4,8 @@
 This Power BI dashboard provides a comprehensive overview of employee attendance, sick leave (SL), and work-from-home (WFH) trends. It enables HR teams and managers to monitor workforce behavior, identify patterns, and make informed decisions to improve productivity and employee well-being.
 
 🚀 Key Features
-✅ Attendance Analysis
+
+# Attendance Analysis
 
 Overall Attendance % – Tracks the average attendance across employees.
 
@@ -14,7 +15,8 @@ Attendance Trends – Line chart showing attendance fluctuations over time.
 
 Day-of-Week Analysis – Highlights attendance behavior by weekdays.
 
-🏥 Sick Leave (SL) Insights
+
+# Sick Leave (SL) Insights
 
 Sick Leave % – Overall percentage of sick leave taken.
 
@@ -22,7 +24,8 @@ Trends Over Time – Visualizes fluctuations in SL over the selected period.
 
 Day-of-Week SL % – Identifies patterns in sick leave across weekdays.
 
-🏠 Work From Home (WFH) Analysis
+
+# Work From Home (WFH) Analysis
 
 WFH % – Percentage of employees working remotely.
 
@@ -30,13 +33,15 @@ WFH Over Time – Tracks WFH trends and peak periods.
 
 Day-of-Week WFH % – Reveals remote working preferences by weekdays.
 
-👩‍💼 Employee-Level Tracking
+
+# Employee-Level Tracking
 
 Individual Attendance Logs – Detailed daily attendance records (P = Present, SL = Sick Leave, WFH = Work from Home, etc.).
 
 Granular Metrics – Breaks down leave types such as Half-Day Sick Leave (HSL), Half-Day Leave Without Pay (HLWP), Business Leave (BL), and more.
 
-📅 Time Periods & Filters
+
+# Time Periods & Filters
 
 Date Range Selector – Allows filtering by custom date ranges.
 
@@ -44,7 +49,8 @@ Monthly Filters (Apr, May, Jun) – Enables comparison across months.
 
 Employee-Level Filters – Drill down into specific employee records.
 
-🎯 Benefits of the Dashboard
+
+# Benefits of the Dashboard
 
 Provides a clear picture of workforce availability.
 
@@ -54,7 +60,8 @@ Supports data-driven decision-making for workforce planning.
 
 Encourages accountability by tracking individual attendance metrics.
 
-🛠️ Tech Stack
+
+# Tech Stack
 
 Power BI Desktop / Power BI Service
 
